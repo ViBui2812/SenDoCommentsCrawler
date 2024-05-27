@@ -1,0 +1,99 @@
+﻿,id,title,comment,default_sentiment,like_count,customer_id,rating_star,customer_name,SPAM_title,split_tokenized_comment,phobert_sentiment
+0,19294247,Tuyệt vời,giá rẻ dùng tôt,Tốt,0,2014292175,5,Trần văn Quảng,No Spam,giá rẻ dùng tôt,Tích cực
+1,19285879,Tạm hài lòng,giiao hàng ok. nhưng chất lượng thấp,Bình thường,0,2039615146,3,Hồng Nhung,No Spam,giiao hàng ok,Tích cực
+1,19285879,Tạm hài lòng,giiao hàng ok. nhưng chất lượng thấp,Bình thường,0,2039615146,3,Hồng Nhung,No Spam,nhưng chất lượng thấp,Tiêu cực
+2,19280515,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. giá tốt. đẹp chất lương ô",Tốt,0,2022192834,5,Anh hung,No Spam,chuyên nghiệp thân thiện,Tích cực
+2,19280515,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. giá tốt. đẹp chất lương ô",Tốt,0,2022192834,5,Anh hung,No Spam,đẹp như mô tả,Tích cực
+2,19280515,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. giá tốt. đẹp chất lương ô",Tốt,0,2022192834,5,Anh hung,No Spam,giá tốt,Tích cực
+2,19280515,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. giá tốt. đẹp chất lương ô",Tốt,0,2022192834,5,Anh hung,No Spam,đẹp chất lương ô,Tích cực
+3,19264505,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời.",Tốt,0,2031218447,5,ViVo,No Spam,chuyên nghiệp thân thiện,Tích cực
+3,19264505,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời.",Tốt,0,2031218447,5,ViVo,No Spam,đẹp như mô tả,Tích cực
+3,19264505,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời.",Tốt,0,2031218447,5,ViVo,No Spam,đóng gói kỹ lưỡng,Tích cực
+3,19264505,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời.",Tốt,0,2031218447,5,ViVo,No Spam,chất lượng tuyệt vời,Tích cực
+5,19265864,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok tốt nên mua đồ shop này",Tốt,0,2021107882,5, levankhaiem,No Spam,chuyên nghiệp thân thiện,Tích cực
+5,19265864,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok tốt nên mua đồ shop này",Tốt,0,2021107882,5, levankhaiem,No Spam,đẹp như mô tả,Tích cực
+5,19265864,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok tốt nên mua đồ shop này",Tốt,0,2021107882,5, levankhaiem,No Spam,đóng gói kỹ lưỡng,Tích cực
+5,19265864,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok tốt nên mua đồ shop này",Tốt,0,2021107882,5, levankhaiem,No Spam,chất lượng tuyệt vời,Tích cực
+5,19265864,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok tốt nên mua đồ shop này",Tốt,0,2021107882,5, levankhaiem,No Spam,giá tốt,Tích cực
+5,19265864,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok tốt nên mua đồ shop này",Tốt,0,2021107882,5, levankhaiem,No Spam,giao hàng nhanh bất ngờ,Tích cực
+5,19265864,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok tốt nên mua đồ shop này",Tốt,0,2021107882,5, levankhaiem,No Spam,ok tốt nên mua đồ shop này,Tích cực
+6,19258383,Tạm hài lòng,lông bàn chải khá cứng chứ ko mềm như hàng từng mua.,Bình thường,0,2035199779,3,Đánh giá ẩn danh,No Spam,lông bàn chải khá cứng chứ ko mềm như hàng từng mua,Trung tính
+7,19199944,Tuyệt vời,đóng gói kỹ lưỡng. đẹp như mô tả. giá tốt. giao hàng quá chậm,Tốt,1,2032738488,5,Nguyễn Ngọc bé Ba,No Spam,đóng gói kỹ lưỡng,Tích cực
+7,19199944,Tuyệt vời,đóng gói kỹ lưỡng. đẹp như mô tả. giá tốt. giao hàng quá chậm,Tốt,1,2032738488,5,Nguyễn Ngọc bé Ba,No Spam,đẹp như mô tả,Tích cực
+7,19199944,Tuyệt vời,đóng gói kỹ lưỡng. đẹp như mô tả. giá tốt. giao hàng quá chậm,Tốt,1,2032738488,5,Nguyễn Ngọc bé Ba,No Spam,giá tốt,Tích cực
+7,19199944,Tuyệt vời,đóng gói kỹ lưỡng. đẹp như mô tả. giá tốt. giao hàng quá chậm,Tốt,1,2032738488,5,Nguyễn Ngọc bé Ba,No Spam,giao hàng quá chậm,Tiêu cực
+8,19295331,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,chuyên nghiệp thân thiện,Tích cực
+8,19295331,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,đẹp như mô tả,Tích cực
+8,19295331,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,đóng gói kỹ lưỡng,Tích cực
+8,19295331,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,chất lượng tuyệt vời,Tích cực
+8,19295331,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,giá tốt,Tích cực
+8,19295331,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,giao hàng nhanh bất ngờ,Tích cực
+9,19277767,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2037885506,5,nguyễn duy kha,No Spam,đẹp như mô tả,Tích cực
+9,19277767,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2037885506,5,nguyễn duy kha,No Spam,chất lượng tuyệt vời,Tích cực
+9,19277767,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2037885506,5,nguyễn duy kha,No Spam,giá tốt,Tích cực
+9,19277767,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2037885506,5,nguyễn duy kha,No Spam,giao hàng nhanh bất ngờ,Tích cực
+10,19272753,Tuyệt vời,đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2032579015,5,Vũ Thành,No Spam,đóng gói kỹ lưỡng,Tích cực
+10,19272753,Tuyệt vời,đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2032579015,5,Vũ Thành,No Spam,chất lượng tuyệt vời,Tích cực
+10,19272753,Tuyệt vời,đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2032579015,5,Vũ Thành,No Spam,giá tốt,Tích cực
+10,19272753,Tuyệt vời,đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2032579015,5,Vũ Thành,No Spam,giao hàng nhanh bất ngờ,Tích cực
+12,19266680,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036207880,5,nguyen ngan,No Spam,chuyên nghiệp thân thiện,Tích cực
+12,19266680,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036207880,5,nguyen ngan,No Spam,đẹp như mô tả,Tích cực
+12,19266680,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036207880,5,nguyen ngan,No Spam,đóng gói kỹ lưỡng,Tích cực
+12,19266680,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036207880,5,nguyen ngan,No Spam,chất lượng tuyệt vời,Tích cực
+12,19266680,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036207880,5,nguyen ngan,No Spam,giá tốt,Tích cực
+12,19266680,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036207880,5,nguyen ngan,No Spam,giao hàng nhanh bất ngờ,Tích cực
+13,19266463,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt.,Tốt,0,302078,5,trung dangtin,No Spam,đẹp như mô tả,Tích cực
+13,19266463,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt.,Tốt,0,302078,5,trung dangtin,No Spam,chất lượng tuyệt vời,Tích cực
+13,19266463,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt.,Tốt,0,302078,5,trung dangtin,No Spam,giá tốt,Tích cực
+14,19258059,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng.",Tốt,0,2022663154,5,loi luong thi,No Spam,chuyên nghiệp thân thiện,Tích cực
+14,19258059,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng.",Tốt,0,2022663154,5,loi luong thi,No Spam,đẹp như mô tả,Tích cực
+14,19258059,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng.",Tốt,0,2022663154,5,loi luong thi,No Spam,đóng gói kỹ lưỡng,Tích cực
+15,19254619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2038434943,5,Sơn Trần,No Spam,chuyên nghiệp thân thiện,Tích cực
+15,19254619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2038434943,5,Sơn Trần,No Spam,đẹp như mô tả,Tích cực
+15,19254619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2038434943,5,Sơn Trần,No Spam,đóng gói kỹ lưỡng,Tích cực
+15,19254619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2038434943,5,Sơn Trần,No Spam,chất lượng tuyệt vời,Tích cực
+15,19254619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2038434943,5,Sơn Trần,No Spam,giá tốt,Tích cực
+15,19254619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2038434943,5,Sơn Trần,No Spam,giao hàng nhanh bất ngờ,Tích cực
+16,19252938,Tuyệt vời,hàng mỏng,Tốt,0,2032582520,5,Đánh giá ẩn danh,No Spam,hàng mỏng,Trung tính
+17,19251097,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2023212614,5,Ngô Bá Thành,No Spam,chuyên nghiệp thân thiện,Tích cực
+17,19251097,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2023212614,5,Ngô Bá Thành,No Spam,đẹp như mô tả,Tích cực
+17,19251097,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2023212614,5,Ngô Bá Thành,No Spam,đóng gói kỹ lưỡng,Tích cực
+17,19251097,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2023212614,5,Ngô Bá Thành,No Spam,chất lượng tuyệt vời,Tích cực
+17,19251097,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2023212614,5,Ngô Bá Thành,No Spam,giá tốt,Tích cực
+17,19251097,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2023212614,5,Ngô Bá Thành,No Spam,giao hàng nhanh bất ngờ,Tích cực
+18,19239619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt.",Tốt,0,2039971692,5,Thai Hoai,No Spam,chuyên nghiệp thân thiện,Tích cực
+18,19239619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt.",Tốt,0,2039971692,5,Thai Hoai,No Spam,đẹp như mô tả,Tích cực
+18,19239619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt.",Tốt,0,2039971692,5,Thai Hoai,No Spam,chất lượng tuyệt vời,Tích cực
+18,19239619,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt.",Tốt,0,2039971692,5,Thai Hoai,No Spam,giá tốt,Tích cực
+19,19239062,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2015177581,5,Hà Thủy Kiều Giang,No Spam,chuyên nghiệp thân thiện,Tích cực
+19,19239062,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2015177581,5,Hà Thủy Kiều Giang,No Spam,đẹp như mô tả,Tích cực
+19,19239062,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2015177581,5,Hà Thủy Kiều Giang,No Spam,đóng gói kỹ lưỡng,Tích cực
+19,19239062,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2015177581,5,Hà Thủy Kiều Giang,No Spam,chất lượng tuyệt vời,Tích cực
+19,19239062,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2015177581,5,Hà Thủy Kiều Giang,No Spam,giá tốt,Tích cực
+19,19239062,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2015177581,5,Hà Thủy Kiều Giang,No Spam,giao hàng nhanh bất ngờ,Tích cực
+20,19238250,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2017560243,5,Nghiemngoc Hao,No Spam,chuyên nghiệp thân thiện,Tích cực
+20,19238250,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2017560243,5,Nghiemngoc Hao,No Spam,đẹp như mô tả,Tích cực
+20,19238250,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2017560243,5,Nghiemngoc Hao,No Spam,đóng gói kỹ lưỡng,Tích cực
+20,19238250,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2017560243,5,Nghiemngoc Hao,No Spam,chất lượng tuyệt vời,Tích cực
+20,19238250,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2017560243,5,Nghiemngoc Hao,No Spam,giá tốt,Tích cực
+20,19238250,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2017560243,5,Nghiemngoc Hao,No Spam,giao hàng nhanh bất ngờ,Tích cực
+21,19136384,Tuyệt vời,"chất lượng sản phẩm tốt, đúng mô tả. shop nhiệt tình, thân thiện. thời gian giao hàng nhanh",Tốt,0,2017259827,5,Đánh giá ẩn danh,No Spam,chất lượng sản phẩm tốt đúng mô tả,Tiêu cực
+21,19136384,Tuyệt vời,"chất lượng sản phẩm tốt, đúng mô tả. shop nhiệt tình, thân thiện. thời gian giao hàng nhanh",Tốt,0,2017259827,5,Đánh giá ẩn danh,No Spam,shop nhiệt tình thân thiện,Tích cực
+21,19136384,Tuyệt vời,"chất lượng sản phẩm tốt, đúng mô tả. shop nhiệt tình, thân thiện. thời gian giao hàng nhanh",Tốt,0,2017259827,5,Đánh giá ẩn danh,No Spam,thời gian giao hàng nhanh,Tích cực
+24,19284571,Tuyệt vời,đẹp như mô tả.,Tốt,0,2038414023,5,Duc Thuan Le,No Spam,đẹp như mô tả,Tích cực
+41,19258263,Tuyệt vời,đẹp như mô tả.,Tốt,0,2040733825,5,Hoàng Thị Dương,No Spam,đẹp như mô tả,Tích cực
+42,19258161,Tuyệt vời,đẹp như mô tả.,Tốt,0,2041208932,5,Phuong Chu,No Spam,đẹp như mô tả,Tích cực
+45,19257245,Tuyệt vời,đẹp như mô tả. giá tốt.,Tốt,0,2036590034,5,LaM LoI,No Spam,đẹp như mô tả,Tích cực
+45,19257245,Tuyệt vời,đẹp như mô tả. giá tốt.,Tốt,0,2036590034,5,LaM LoI,No Spam,giá tốt,Tích cực
+47,19245726,Tuyệt vời,chất lượng tuyệt vời. giá tốt.,Tốt,0,2023948516,5,ThạchKim,No Spam,chất lượng tuyệt vời,Tích cực
+47,19245726,Tuyệt vời,chất lượng tuyệt vời. giá tốt.,Tốt,0,2023948516,5,ThạchKim,No Spam,giá tốt,Tích cực
+53,19116145,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,chuyên nghiệp thân thiện,Tích cực
+53,19116145,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,đẹp như mô tả,Tích cực
+53,19116145,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,đóng gói kỹ lưỡng,Tích cực
+53,19116145,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,chất lượng tuyệt vời,Tích cực
+53,19116145,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,giá tốt,Tích cực
+53,19116145,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2032523687,5,Yến Trần Thị,No Spam,giao hàng nhanh bất ngờ,Tích cực
+54,5535307,Tuyệt vời,"sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. chất lượng sản phẩm/dịch vụ rất tốt. gửi sản phẩm/vé dịch vụ nhanh. shop tư vấn, hướng dẫn cực kỳ nhiệt tình.",Tốt,0,2012814004,5,Trần Minh  Hà,No Spam,sản phẩm dịch vụ giống mô tả và tốt hơn mong đợi,Tích cực
+54,5535307,Tuyệt vời,"sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. chất lượng sản phẩm/dịch vụ rất tốt. gửi sản phẩm/vé dịch vụ nhanh. shop tư vấn, hướng dẫn cực kỳ nhiệt tình.",Tốt,0,2012814004,5,Trần Minh  Hà,No Spam,chất lượng sản phẩm dịch vụ rất tốt,Tích cực
+54,5535307,Tuyệt vời,"sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. chất lượng sản phẩm/dịch vụ rất tốt. gửi sản phẩm/vé dịch vụ nhanh. shop tư vấn, hướng dẫn cực kỳ nhiệt tình.",Tốt,0,2012814004,5,Trần Minh  Hà,No Spam,gửi sản phẩm vé dịch vụ nhanh,Tích cực
+54,5535307,Tuyệt vời,"sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. chất lượng sản phẩm/dịch vụ rất tốt. gửi sản phẩm/vé dịch vụ nhanh. shop tư vấn, hướng dẫn cực kỳ nhiệt tình.",Tốt,0,2012814004,5,Trần Minh  Hà,No Spam,shop tư vấn hướng dẫn cực kỳ nhiệt tình,Tích cực
