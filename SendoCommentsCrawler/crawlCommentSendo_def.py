@@ -135,7 +135,7 @@ def tokenize_comment(comment):
 
 # Khởi tạo mô hình và tokenizer 
 checkpoint = "mr4/phobert-base-vi-sentiment-analysis"
-tokenizer = AutoTokenizer.from_pretrained(checkpoint)
+tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast=False)
 model = AutoModelForSequenceClassification.from_pretrained(checkpoint)
 #Hàm sentiment bằng PhoBert cho từng dòng trong cột comment:
 def get_sentiment_scores_by_phobert(text, batch_size=32):

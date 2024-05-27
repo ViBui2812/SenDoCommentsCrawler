@@ -70,7 +70,7 @@ def main():
                     st.session_state.df_spam = df_spam
                     st.write('**Bảng Comment sau khi đánh dấu SPAM thu thập được:**')
                     st.write(df_spam)
-                    st.text('*-- Sau quá trình nhận diện Spam, sẽ xóa đi các comment được đánh dấu "SPAM" --*')
+                    st.text('**-- Sau quá trình nhận diện Spam, sẽ xóa đi các comment được đánh dấu "SPAM" --**')
                     # Lọc ra các dòng mà giá trị trong cột 'SPAM_title' không phải là 'SPAM'
                     df_spam = df_spam[df_spam['SPAM_title'] != 'Spam']
                     
