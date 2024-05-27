@@ -1,0 +1,15 @@
+gensim==4.3.2
+matplotlib==3.7.2
+nltk==3.8.1
+numpy==1.25.2
+pandas==2.2.2
+pyvi==0.1.1
+Requests==2.32.2
+scikit_learn==1.4.2
+seaborn==0.13.2
+streamlit==1.35.0
+streamlit_option_menu==0.3.12
+torch==2.3.0
+tqdm==4.66.4
+transformers==4.41.1
+underthesea==6.8.0
