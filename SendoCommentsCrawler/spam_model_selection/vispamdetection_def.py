@@ -53,7 +53,7 @@ def train_model_binary(train_raw, dev_raw):
     train_dataset = BuildDataset(train_encodings, train_raw['Label'].values)
     dev_dataset = BuildDataset(dev_encodings, dev_raw['Label'].values)
 
-    MODEL_PATH = 'spam_model_selection/model/vispam-binary'
+    MODEL_PATH = './spam_model_selection/model/'
     training_args = TrainingArguments(
         output_dir=MODEL_PATH,
         learning_rate=2e-5,
@@ -106,7 +106,7 @@ idx2label = {
         0: "No Spam",
         1: "Spam"
     }
-model_predict_spam = AutoModelForSequenceClassification.from_pretrained('spam_model_selection/model/vispam-binary', num_labels = 2)
+model_predict_spam = AutoModelForSequenceClassification.from_pretrained('./spam_model_selection/model/', num_labels = 2)
 tokenizer_predict_spam = AutoTokenizer.from_pretrained("uitnlp/visobert",use_fast=False)
 # Di chuyển mô hình đến thiết bị (GPU nếu có)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -132,103 +132,6 @@ def predict_spam_binary(text_raw):
 
 
 
-
-# def prepare_model_for_multiclass():
-#     tokenizer = AutoTokenizer.from_pretrained("uitnlp/visobert", use_fast=False)
-#     model = AutoModelForSequenceClassification.from_pretrained("uitnlp/visobert", num_labels=4)
-#     return tokenizer, model
-
-
-
-
-# def train_model_multiclass(train_raw, dev_raw):
-#     tokenizer, model = prepare_model_for_multiclass()
-
-#     train_text = [str(x) if x is not None else '' for x in train_raw['Comment'].values]
-#     dev_text = [str(x) if x is not None else '' for x in dev_raw['Comment'].values]
-
-#     train_encodings = tokenizer(train_text, truncation=True, padding=True, max_length=200)
-#     dev_encodings = tokenizer(dev_text, truncation=True, padding=True, max_length=200)
-
-#     train_dataset = BuildDataset(train_encodings, train_raw['SpamLabel'].values)
-#     dev_dataset = BuildDataset(dev_encodings, dev_raw['SpamLabel'].values)
-
-#     MODEL_PATH = 'spam_model_selection/model/vispam-multiclass'
-
-#     training_args = TrainingArguments(
-#         output_dir=MODEL_PATH,
-#         learning_rate=2e-5,
-#         per_device_train_batch_size=16,
-#         per_device_eval_batch_size=16,
-#         num_train_epochs=2,
-#         weight_decay=0.01,
-#         eval_strategy="epoch",
-#         save_strategy="epoch",
-#         load_best_model_at_end=True
-#     )
-
-#     trainer = Trainer(
-#         model=model,
-#         args=training_args,
-#         train_dataset=train_dataset,
-#         eval_dataset=dev_dataset
-#     )
-#     trainer.train()
-#     trainer.save_model(MODEL_PATH)
-
-#     return trainer, tokenizer
-
-
-
-
-
-# def evaluate_model_multiclass(test_raw, trainer, tokenizer):
-#     test_text = [str(x) if x is not None else '' for x in test_raw['Comment']]
-
-#     test_encodings = tokenizer(test_text, truncation=True, padding=True, max_length=100)
-#     test_dataset = BuildDataset(test_encodings, test_raw['SpamLabel'].values)
-
-#     y_pred_classify = trainer.predict(test_dataset)
-
-#     y_pred = np.argmax(y_pred_classify.predictions, axis=-1)
-#     y_true = test_raw['SpamLabel'].values
-
-#     cf2 = confusion_matrix(y_true, y_pred)
-#     print(cf2)
-
-#     evaluation = f1_score(y_true, y_pred, average='macro')
-#     print("F1 - macro: " + str(evaluation))
-
-#     # Show out the confusion matrix
-#     df_cm2 = pd.DataFrame(cf2, index = ["no-spam", "spam-1", "spam-2", "spam-3"],
-#                     columns = ["no-spam", "spam-1", "spam-2", "spam-3"])
-#     plt.clf()
-#     sn.heatmap(df_cm2, annot=True, cmap="Greys",fmt='g', cbar=True, annot_kws={"size": 30})
-
-
-
-
-
-# def predict_text_multiclass(text_raw, model_path='spam_model_selection/model/vispam-multiclass'):
-#     idx2label = {
-#         0: "No Spam",
-#         1: "Spam-1",
-#         2: "Spam-2",
-#         3: "Spam-3"
-#     }
-
-#     model = AutoModelForSequenceClassification.from_pretrained(model_path, num_labels = 4)
-#     tokenizer = AutoTokenizer.from_pretrained("uitnlp/visobert",use_fast=False)
-
-#     encoding = tokenizer([text_raw], truncation=True, padding=True, max_length=200)
-#     pred_artifact = BuildDataset(encoding, [0])
-
-#     trainer = Trainer(model=model)
-#     label_predicted = trainer.predict(pred_artifact)
-
-#     y_pred = np.argmax(label_predicted.predictions, axis=-1)
-
-#     return idx2label[y_pred[0]]
 
 
 

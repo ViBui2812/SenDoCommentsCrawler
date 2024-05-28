@@ -1,76 +1,380 @@
 ﻿,id,title,comment,default_sentiment,like_count,customer_id,rating_star,customer_name
-0,19285891,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giao hàng nhanh bất ngờ. ok tốt",Tốt,0,2016706907,5,cbbnnnnn cbbnnnnn
-1,19278995,Không hài lòng,"cần đúng với mô tả. hình ảnh đăng bán và hình ảnh thiệt khác xa, mọi người nên cân nhắc trước khi mua",Xấu,0,2026987313,1,Lê Ngọc Lan
-2,19262072,Tạm hài lòng,chất lượng ổn. đúng mô tả. đóng gói kỹ. giỏ hơi mỏng manh tí nhưng tam ổn mua được,Bình thường,0,2041651708,3,linh
-3,19260527,Tuyệt vời,"đẹp như mô tả. chất lượng tuyệt vời. giá tốt. sản phẩm túi chất lượng kích thước như mô tả. túi đứng thành 1 hộp khi túi còn rỗng và đóng khóa kéo lại (vì chất liệu là vải không dệt), đủ dày để túi đứng thẳng khi rỗng. không như loại túi làm bằng nhựa mỏng lét, ngã lên ngã xuống nha. tuyệt vời, giá khoảng 22 23k cái luôn ship đến sg (nếu tổng giá trị đơn hàng theo tiêu chuẩn sendo).",Tốt,0,2028041375,5,Thanh Thanh
-4,19247772,Tuyệt vời,"đặt hàng 04 giỏ, bận đi làm nhờ người nhà nhận hộ trưa về mở ra có 03 giỏ làm ăn kiểu này mau giàu lắm hãy đợi đấy",Tốt,1,2017741116,5,nguyen nhu bon
-5,19289126,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. ok",Tốt,0,2037193865,5,sonlam
-6,19288794,Không hài lòng,"chất vải xấu, quai vừa động vào đã đứt",Xấu,0,2040825211,1,Đánh giá ẩn danh
-7,19261646,Không hài lòng,không giống với mô tả nó chỉ như một cái túi không có nắp đậy .... đừng mua m.n ơi phí tiền,Xấu,0,2021760147,1,Đánh giá ẩn danh
-8,19253671,Tuyệt vời,"giỏ to đựng được nhiều đồ, chất lượng phù hợp với giá cả, dùng để đựng mùng, mền, gối ... tạm ổn",Tốt,0,2016010680,5,Đánh giá ẩn danh
-9,19251387,Không hài lòng,shop giao hàng k đúng mô tả..nhận hàng k hài lòng chút nào….cầu cho shop mua may bán đắc,Xấu,1,2036984089,1,thủy linh
-10,19241300,Tuyệt vời,giao hàng thân thiện vui vẻ shop giao đúng hẹn tặng shop 5 sao,Tốt,0,2027702103,5,BaoBao
-11,19280281,Tuyệt vời,đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt.,Tốt,0,2036689792,5,Anh Lam
-12,19274409,Tuyệt vời,ok,Tốt,0,2013408297,5,nguyen nam trung
-13,19271596,Tuyệt vời,tốt quá đựng đồ rất nhiều,Tốt,0,2039987500,5,dinh van Tan
-14,19267800,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt.",Tốt,0,2040921763,5,nhung Ksor
-15,19264822,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt.,Tốt,0,2039521367,5,Do Ngoc nu
-16,19260451,Tạm hài lòng,chất lượng ổn. đúng mô tả. đóng gói kỹ.,Bình thường,0,2035722733,3,phạm nhí em
-17,19260442,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời.",Tốt,0,2040921763,5,nhung Ksor
-18,19254269,Tuyệt vời,ok nha,Tốt,0,2036274870,5,Tatcamtrung
-19,19252507,Tạm hài lòng,"dễ rách , bung khóa",Bình thường,0,2042248085,3,Thảo Nguyễn
-20,19252014,Hài lòng,đóng gói kỹ. đúng mô tả. giá hợp lý. giao hàng nhanh.,Tốt,0,2038996579,4,Thanh Dương
-21,19241416,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt.",Tốt,0,2037525820,5,Mậu long le
-22,19238070,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2040458493,5,ngọc phựợng
-23,19238061,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt.",Tốt,0,2033600879,5,nguyen thi hoan
-24,19294634,Hài lòng,,Tốt,0,2035509099,4,VU THI HAU
-25,19294376,Tuyệt vời,giá tốt.,Tốt,0,2034728123,5,Trần Giàu
-26,19291298,Hài lòng,,Tốt,0,2038586885,4,Nguyen Dinh
-27,19288878,Không hài lòng,,Xấu,0,2039840698,1,Bùi Xuân Hoan
-28,19287972,Tuyệt vời,,Tốt,0,2036151304,5,tran van thanh
-29,19287373,Tuyệt vời,,Tốt,0,2015178869,5,Bùi Đắc Thành
-30,19286905,Tuyệt vời,,Tốt,0,2019685371,5,tâm nguyen van
-31,19286821,Tuyệt vời,,Tốt,0,2041204343,5,Phạm Thị Hải Yến
-32,19286592,Tuyệt vời,,Tốt,0,2042364895,5,Nguyễn Thị Thu
-33,19286588,Chưa hài lòng,,Xấu,0,2042557961,2,Lý Tâm
-34,19286120,Hài lòng,,Tốt,0,2014468769,4,Dương Đình Long
-35,19284902,Hài lòng,,Tốt,0,2041977911,4,Nhung
-36,19284833,Tuyệt vời,,Tốt,0,2018246167,5,tranducquang quang
-37,19283938,Tạm hài lòng,,Bình thường,0,2042590642,3,Phương Lan
-38,19283335,Tuyệt vời,,Tốt,0,2025237846,5,loan
-39,19281865,Không hài lòng,,Xấu,0,2034614811,1,nguyenvanhuynh
-40,19279571,Tuyệt vời,,Tốt,0,2024345121,5,nguyên hăng nga
-41,19275434,Không hài lòng,,Xấu,0,2042348684,1,Mỹ Ngọc
-42,19274252,Tuyệt vời,,Tốt,0,2041864266,5,nu tieu long
-43,19270522,Tuyệt vời,,Tốt,0,2026364054,5,Bùi Hồng Hải
-44,19268883,Tuyệt vời,,Tốt,0,2016243509,5,Nguyenhong Bee
-45,19267735,Tuyệt vời,,Tốt,0,2019283157,5,Yên Hồ Văn
-46,19266148,Tuyệt vời,,Tốt,0,2042236971,5,Phượng
-47,19264679,Không hài lòng,chất lượng cần tốt hơn.,Xấu,0,2042192292,1,Đánh giá ẩn danh
-48,19264516,Tuyệt vời,,Tốt,0,2025900028,5,tien dao van
-49,19264174,Tuyệt vời,,Tốt,0,2036969900,5,Nguyễn Trang
-50,19261516,Tuyệt vời,,Tốt,0,2028097678,5,Trần Thị Bích Thuỷ
-51,19261058,Tuyệt vời,giá tốt.,Tốt,0,371986,5,Đánh giá ẩn danh
-52,19260201,Tuyệt vời,,Tốt,0,2042300898,5,Vũ Thị Nha
-53,19259917,Tuyệt vời,,Tốt,0,2019385936,5,suong tuyet
-54,19259248,Tuyệt vời,,Tốt,0,2022203795,5,Nguyen Thi Huong Thom
-55,19258400,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2029204693,5,Đánh giá ẩn danh
-56,19254803,Tuyệt vời,đẹp như mô tả.,Tốt,0,2040620193,5,Phan Tien Dung
-57,19254706,Tuyệt vời,,Tốt,0,2038720648,5,Đào Trần
-58,19254145,Tuyệt vời,,Tốt,0,2042283514,5,0*** 
-59,19252373,Hài lòng,,Tốt,0,2034891150,4, Thái Trường Minh
-60,19252325,Hài lòng,,Tốt,0,2042186794,4,Mai Hoa
-61,19251983,Chưa hài lòng,,Xấu,0,2018571610,2,Đánh giá ẩn danh
-62,19251652,Chưa hài lòng,chất lượng cần tốt hơn. cần đúng với mô tả.,Xấu,0,2042257823,2,0*** 
-63,19251585,Hài lòng,đúng mô tả. giá hợp lý.,Tốt,0,2038876378,4,Hoà Võ công
-64,19251212,Chưa hài lòng,chất lượng cần tốt hơn.,Xấu,0,2019643139,2,Đánh giá ẩn danh
-65,19249783,Tuyệt vời,,Tốt,0,2014359211,5,Thi Lai Ngo
-66,19249669,Tuyệt vời,,Tốt,0,2012982373,5,Dương Khánh Trang
-67,19244983,Tuyệt vời,đẹp như mô tả.,Tốt,0,558799,5,NGUYEN THI KIEU MY
-68,19244023,Hài lòng,,Tốt,0,2021281381,4,Lê thi bich xuyen
-69,19243753,Tuyệt vời,,Tốt,0,2040302754,5,Huỳnh Thảo
-70,19243478,Tuyệt vời,,Tốt,0,2028263594,5,Thuy Trần
-71,19242986,Hài lòng,,Tốt,0,2034644082,4,Võ Niên
-72,19240644,Tuyệt vời,đẹp như mô tả.,Tốt,0,2020224710,5,Chậm Mìn
-73,19238231,Tuyệt vời,,Tốt,0,2041854770,5,Nguyễn Thị Lệ Hoa
-74,19122271,Tuyệt vời,đẹp như mô tả.,Tốt,0,2038598839,5,Xuan Thanh
+0,19287176,Tạm hài lòng,giao hàng không với hình đăng bán. hình vân đá ma giao hàng trơn có vân nào đâu.,Bình thường,0,2034991807,3,huynh ngọc Bích
+1,19242919,Chưa hài lòng,"chất lượng cần tốt hơn. không phải chao nhom,chan men quá te,không phải là đá",Xấu,0,2036702477,2,Lương văn Đấu
+2,19236626,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. tưởng ko to.mà to ko tưởng thank shop sp nên mua (hình ảnh mang tính chất minh họa +chưa nướng thử ra sao hài lòng vs sp",Tốt,1,2017546514,5,Nguyễn Minh Tuấn
+3,19233620,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. chảo dùng thích nha,chống dính đỉnh luôn , còn độ bền thì đánh giá sau ,nói chung là giá rẻ mà quá ok rồi",Tốt,0,2021922624,5,Hà nguyen
+4,19216860,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt. nướng là ok tốt",Tốt,0,2016706907,5,cbbnnnnn cbbnnnnn
+5,19212790,Tuyệt vời,không hài lòng gửi hàng không đúng với quảng cáo,Tốt,0,2041056235,5,đong tong
+6,19233649,Không hài lòng,cần đúng với mô tả. hàng không đúng như quảng cao. không vo túi đựng,Xấu,0,2020892878,1,Đánh giá ẩn danh
+7,19216684,Hài lòng,"đúng mô tả. giá hợp lý. giao hàng nhanh. mấy nay quên đánh giá,chảo chưa sử dụng lúc mới nhận mở ra kiểm tra thì thấy trên mặt chảo bị bong tróc xíu lớp chống dính,shop giao nhanh",Tốt,0,2041994136,4,Ôc Sên
+8,19075614,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. quên ko chụp ảnh nhưng tưởng mua chơi mà chảo chất lắm luôn chống dính rất tuyệt vời nướng mấy lần rồi mà ko bị bong tróc chống dính,Tốt,0,2027265448,5,lê thị phương
+9,19239156,Tuyệt vời,"rất hài lòng về sản phẩm, giá lại rẻ, các bạn nên mua",Tốt,0,2020382533,5,Live Streams in The Life
+10,19212786,Tuyệt vời,tại sao khi đặt hàng một mã đơn mà khi nhận hàng lại mã đơn khác.,Tốt,0,2041224860,5,lê thị dân
+11,19212002,Tuyệt vời,hang chưa dao sao mà đánh giá,Tốt,0,2039800802,5,mt siu đam
+12,19211203,Chưa hài lòng,"giao hàng chậm , tay nắm chảo bị cong vênh chưa đúng như quảng csos",Xấu,0,2019735554,2,NGUYEN TRONG TUAN
+13,19164767,Tạm hài lòng,"giao hàng tạm ổn. đóng gói kỹ. nướng nhanh cháy mà chưa chín, tóm lại là nướng k ok còn chiên trứng thì duyệt , tạm cho 3 sao, 148k /2chao cũng rẻ mà",Bình thường,1,2038508851,3,Đánh giá ẩn danh
+14,19157138,Tuyệt vời,"đẹp như mô tả. giao hàng đúng như mô tả y như hình rất tốt,cho 5*****",Tốt,0,2018617518,5,Trương thanh Tùng
+15,19146819,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. đẹp dầy năng hơn tôi nghĩ... nhìn rất cao cấp. nướng ngon đã lắm.nen mua ở shop này nhé mn... rẻ đẹp,Tốt,0,2013627440,5,Trần Tùng
+16,19089488,Tuyệt vời,"đẹp như mô tả. giá tốt. hàng đẹp, giá phù hợp",Tốt,0,2023840596,5,Tran binh
+17,19061111,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. chảo nướng rất tốt .không cần dùng thân, nướng thoải mái từ tronhgbnj ngòi ăn.",Tốt,0,2020826703,5,Lam Tran
+18,19293420,Tuyệt vời,đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt.,Tốt,0,2040626201,5,0*** 
+19,19291744,Tuyệt vời,rat tot,Tốt,0,2031193549,5,Tu Le dinh
+20,19270711,Tuyệt vời,đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2042283169,5,0*** 
+21,19270390,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời.",Tốt,0,2020576926,5,Thiet Nguyen
+22,19269966,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2028346394,5,phương trâm
+23,19263572,Tuyệt vời,oki,Tốt,0,2025912058,5,Bằng Vũ
+24,19254205,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2036098129,5,Trần Thị Nhung
+25,19250875,Tuyệt vời,"giáo hàng nhanh,đúng hang",Tốt,0,2034003037,5,Bui Kim
+26,19247636,Không hài lòng,chất lượng cần tốt hơn. chảo quá điêu nướng được hai lần bong hết luôn shop này bán quả vo van han quốc ***,Xấu,0,2041801278,1,từ thị hạnh
+27,19244208,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt.",Tốt,0,2027423491,5,Mang Xuân Phụng
+28,19240701,Tuyệt vời,,Tốt,0,2021130328,5,TIẾN LÊ
+29,19240466,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036207880,5,nguyen ngan
+30,19236808,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2016261747,5,Đinh Mỹ
+31,19235167,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt.",Tốt,0,2021178433,5,hồ công tiến
+32,19235081,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2037720404,5,Lưu Thị Kiệm
+33,19233167,Hài lòng,giá hợp lý.,Tốt,0,2039615146,4,Hồng Nhung
+34,19231991,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2039875049,5,con thuyền không bến
+35,19230566,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2019850830,5,tranthinu
+36,19230350,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2021704719,5,Quoc le nhat
+37,19228070,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2020985634,5,Nguyễn Thị Trúc Phương
+38,19225736,Tuyệt vời,đẹp như mô tả. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2028031970,5,Nguyenvan Chuong
+39,19218740,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2033824040,5,Vu Thi Thanh
+40,19217495,Tuyệt vời,,Tốt,0,2028545451,5,huynh thi anh tuyet
+41,19217192,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036364145,5,nguyễn quang cường
+42,19216986,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giao hàng nhanh bất ngờ.,Tốt,0,2016584190,5,Giao Trần
+43,19216130,Tuyệt vời,,Tốt,0,2040927515,5,Duyên Nguyễn
+44,19216017,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2025537455,5,Nguyễn Quốc Bảo
+45,19215065,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036165950,5,phạm tài
+46,19213752,Tuyệt vời,hag đẹp,Tốt,0,2022810657,5,le pham thi
+47,19213306,Hài lòng,đúng mô tả. giá hộp lý tiền nào của đấy.,Tốt,0,2035436932,4,trần thị phước hau
+48,19213206,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2018511539,5,Thảo Trần
+49,19212739,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2024697317,5,hoang nguyen van
+50,19212299,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2015605676,5,Nguyễn Quang Sơn
+51,19211994,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2026535404,5,Dương Trần Thái
+52,19209382,Hài lòng,..,Tốt,0,2026876659,4,lan nguyen thi my
+53,19208443,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2041971328,5,Nguyễn Hương
+54,19205844,Tuyệt vời,chảo nặng giá ok,Tốt,0,2042048707,5,0*** 
+55,19204518,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2022300947,5,Sơn Trần Hồng
+56,19203397,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. tốt,Tốt,0,2042039849,5,0*** 
+57,19200579,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2041923024,5,Đánh giá ẩn danh
+58,19197381,Tuyệt vời,chất lượng tuyệt vời. giao hàng nhanh bất ngờ. tốt,Tốt,0,2021882672,5,Cao cường
+59,19194578,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ. chất lương tam ổn",Tốt,0,2024314298,5,nguyễn Nguyễn
+60,19191375,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng.,Tốt,0,2027419128,5,Huong Dong
+61,19191210,Tạm hài lòng,chưa chuyên nghiệp. không có túi đựng như qc,Bình thường,0,2037760358,3,lâm anh thuy
+62,19186489,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. đep tuyet voi",Tốt,0,2026158512,5,Nguyễn Hoa
+63,19184578,Tuyệt vời,chảo đẹp to. chất lương ntn thì chưa dùng,Tốt,0,2041549571,5,trần chi
+64,19164657,Tuyệt vời,rất tốt. tốt hơn mong đợi. chảo rất nặng và to. nên mua,Tốt,0,2024282453,5,Thu Đăng Thi Câm
+65,19159072,Tuyệt vời,sp nên mua nha mn. con mình đã dùng để nướng bánh rán đôremon khi vừa mới mua về,Tốt,0,2021265944,5,Phạm Thị Mỹ Linh
+66,19157556,Tuyệt vời,hàng ok đẹp xài êm nên đặt thêm cái nữa,Tốt,0,2019173261,5,minh nguyen thi ngoc
+67,19141863,Hài lòng,"giá tốt, khi nhận hàng chảo bị công chổ tay cầm, đề nghị shop đóng gói kĩ hơn. chưa sử dụng nên chưa biết thế nào.",Tốt,0,2037121617,4,An Nguyen
+68,19108226,Tuyệt vời,hàng tốt chất lượng sài ok lắm cả nhà mình yên tâm mua nhé,Tốt,0,2023534974,5,Đánh giá ẩn danh
+69,19099066,Tạm hài lòng,,Bình thường,0,2038489483,3,Minh Dinh
+70,19086917,Tuyệt vời,chưa sử dụng nên chưa thể đánh giá,Tốt,0,2019794343,5,tùng nguyên văn
+71,19056557,Tuyệt vời,"chuyên nghiệp, thân thiện. đóng gói kỹ lưỡng. chao dep , tron kg co duong van tron nhu hinh quang cao , chua su dung nen chua danh gia duoc chat luong , nhin chung on , shipper than thien",Tốt,0,2030637267,5, Nguyen thi bich ngoc
+72,18966910,Tuyệt vời,"chảo cũng được bằng sắt trên tráng lớp chống dính, tạm được",Tốt,0,2018187910,5,Nhã Vân Nguyễn
+73,18959356,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2022556267,5,Toàn Nguyễn Thanh
+74,18947651,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ. hàng y như mo tả đẹp sẽ ủng hộ tiếp",Tốt,0,2038559165,5,Đánh giá ẩn danh
+75,18917176,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. sản phẩm như hình giao hàng nhanh",Tốt,0,2027834567,5,Đánh giá ẩn danh
+76,19295600,Tuyệt vời,,Tốt,0,2042199688,5,Sáng Nga
+77,19295475,Hài lòng,,Tốt,0,2021711687,4,hạnh phó thị mỹ
+78,19295467,Tuyệt vời,,Tốt,0,2019791174,5,tranhongkhanh
+79,19292333,Tuyệt vời,,Tốt,0,2035666091,5,Thái Hoàng Phi
+80,19288056,Tuyệt vời,,Tốt,0,2021185102,5,hai vu van
+81,19284639,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2022043567,5,Cường Đỗ Mạnh
+82,19284382,Tuyệt vời,,Tốt,0,2034314863,5, thanh le
+83,19276491,Tuyệt vời,,Tốt,0,2040925986,5,tran Minh tam
+84,19272085,Tuyệt vời,,Tốt,0,2037912687,5,Phạm Văn sang
+85,19271877,Tuyệt vời,,Tốt,0,2031380872,5,tran huong
+86,19268595,Tuyệt vời,,Tốt,0,2025992015,5,Trang Thanh
+87,19268348,Hài lòng,đúng mô tả.,Tốt,0,2026895965,4,Trí Nguyễn Thanh
+88,19267629,Không hài lòng,,Xấu,0,2042283047,1,Mai chung đức
+89,19264912,Tuyệt vời,,Tốt,0,2042207326,5,mai văn Lâm
+90,19264173,Tuyệt vời,,Tốt,0,2026718787,5,Dao Thảo
+91,19262689,Tuyệt vời,,Tốt,0,2033855488,5,Trầm Ngọc Trân
+92,19262066,Tuyệt vời,,Tốt,0,2041730224,5,nguyen hoai thuong
+93,19261669,Tạm hài lòng,chất lượng ổn.,Bình thường,0,2026717141,3,Bùi Lê Tuấn Vũ
+94,19261506,Hài lòng,,Tốt,0,2042156177,4,0*** 
+95,19260404,Tuyệt vời,,Tốt,0,2042260191,5,0*** 
+96,19260126,Tuyệt vời,,Tốt,0,2022382495,5,Sơn nguyen van
+97,19259983,Tuyệt vời,,Tốt,0,2042272598,5,Đao Thị Lịch
+98,19257361,Tuyệt vời,đẹp như mô tả.,Tốt,0,2028321932,5,Đăng văn Tố
+99,19255392,Tuyệt vời,,Tốt,0,2042246504,5,0*** 
+100,19254718,Tuyệt vời,,Tốt,0,2019385936,5,suong tuyet
+101,19254425,Tuyệt vời,,Tốt,0,2023598326,5,Mỹ Tho Nguyễn
+102,19253287,Tuyệt vời,,Tốt,0,2025720331,5,ut mai thi
+103,19253247,Tuyệt vời,giao hàng nhanh bất ngờ.,Tốt,0,2036102717,5,vu thi mai phuong
+104,19252924,Tuyệt vời,,Tốt,0,2027548578,5,Trần Thảo Trinh
+105,19251731,Tuyệt vời,,Tốt,0,2039946658,5,Mười Võ
+106,19251287,Tuyệt vời,,Tốt,0,2025157814,5,Hà Nhật Linh
+107,19250993,Tuyệt vời,đẹp như mô tả.,Tốt,0,2020525005,5,Trịnh Trang
+108,19247546,Tuyệt vời,,Tốt,0,2016449554,5,lê nguyên
+109,19246875,Tuyệt vời,,Tốt,0,2042232841,5,0*** 
+110,19246342,Tuyệt vời,,Tốt,0,2035160551,5,lê thị Loan
+111,19246130,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2041185807,5,Bia Hơi Hồng Trà
+112,19245473,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2030991158,5,trần nhung
+113,19244998,Tuyệt vời,,Tốt,0,2023882157,5,ninh nguyễn thị
+114,19240111,Tuyệt vời,,Tốt,0,2031717969,5,0*** 
+115,19239919,Tạm hài lòng,chất lượng ổn.,Bình thường,0,2015029990,3,tu vu
+116,19239271,Tuyệt vời,,Tốt,0,2027183569,5,tang viet
+117,19237942,Tuyệt vời,,Tốt,0,2042108735,5,0*** 
+118,19237287,Tuyệt vời,,Tốt,0,2019740716,5,nhung cam
+119,19236871,Tuyệt vời,,Tốt,0,2041752703,5,Đương
+120,19235814,Tạm hài lòng,,Bình thường,0,2031529436,3,Tran minh dao
+121,19234785,Tuyệt vời,,Tốt,0,2039202195,5,Nguyễn Minh Thư
+122,19234014,Hài lòng,,Tốt,0,2041828287,4,Thuy Tran
+123,19233664,Tuyệt vời,,Tốt,0,2042151170,5,0*** 
+124,19233575,Tuyệt vời,,Tốt,0,2034888694,5,le thi thuy
+125,19233351,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2029397038,5,Gia Bảo
+126,19232628,Tuyệt vời,,Tốt,0,2028968745,5,vũ thị thương
+127,19232472,Hài lòng,,Tốt,0,2019740716,4,nhung cam
+128,19232036,Tuyệt vời,,Tốt,0,2027169682,5,phuong nguyen
+129,19231835,Tuyệt vời,,Tốt,0,2024993889,5,phanxuandang
+130,19231279,Tuyệt vời,đẹp như mô tả.,Tốt,0,2042136148,5,Vũ Lương 2004
+131,19230839,Tuyệt vời,,Tốt,0,2041326649,5,nguyen thi Thanh tuyen
+132,19230077,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2030991158,5,trần nhung
+133,19229655,Tuyệt vời,giá tốt.,Tốt,0,2042008121,5,0*** 
+134,19229014,Tuyệt vời,đẹp như mô tả.,Tốt,0,2024103957,5,Bảo Bảo
+135,19228857,Tuyệt vời,giá tốt. chất lượng tuyệt vời.,Tốt,0,2014748448,5,Lâm Hồng Yến
+136,19228803,Tuyệt vời,,Tốt,0,2026852827,5,thảo hồ xuân
+137,19228723,Tuyệt vời,,Tốt,0,2019142530,5,Hồ ngọc nhẫn
+138,19228155,Tuyệt vời,,Tốt,0,2036952364,5,rơ châm nhát
+139,19227855,Tuyệt vời,,Tốt,0,2037224510,5,Trần Thị Mỹ Duyên
+140,19226863,Tuyệt vời,,Tốt,0,2041536533,5,phan tấn thành
+141,19226701,Tuyệt vời,,Tốt,0,2027050017,5,Nguyễn Văn Lên
+142,19223380,Tuyệt vời,đẹp như mô tả. giá tốt.,Tốt,0,2042096788,5,nguyễ thị anh thơ
+143,19222785,Tuyệt vời,,Tốt,0,2021331610,5,nga nguyen do nhat
+144,19222631,Tuyệt vời,,Tốt,0,2022713903,5,hai su
+145,19222377,Tuyệt vời,giá tốt.,Tốt,0,2020470937,5,Yen Minh
+146,19221833,Tuyệt vời,,Tốt,0,105096,5,vo van son
+147,19221653,Tuyệt vời,,Tốt,0,2041971328,5,Nguyễn Hương
+148,19221387,Tuyệt vời,,Tốt,0,2040888091,5,tran quang khanh
+149,19221237,Tuyệt vời,,Tốt,0,2041749332,5,Nguyễn Hồng Nhi
+150,19220478,Tuyệt vời,,Tốt,0,2040481561,5,Bùi Thị Hiệp
+151,19218673,Tuyệt vời,,Tốt,0,2040099065,5,Nguyễn Thị Hoàng Diễm
+152,19217678,Tuyệt vời,,Tốt,0,2042093889,5,0*** 
+153,19217216,Tuyệt vời,đóng gói kỹ lưỡng.,Tốt,0,2036075383,5,Nguyễn Kim Chung
+154,19217176,Không hài lòng,,Xấu,0,2030682255,1, Minh Châu
+155,19217152,Tuyệt vời,giá tốt.,Tốt,0,2017558805,5,Thu huyen Le
+156,19216987,Tuyệt vời,đẹp như mô tả.,Tốt,0,2013764268,5,Trần Oanh
+157,19216741,Tuyệt vời,"chuyên nghiệp, thân thiện. giá tốt.",Tốt,0,2038659373,5,Hạnh Tuyền
+158,19216526,Tuyệt vời,,Tốt,0,2026450303,5,chi tran thi hue
+159,19216113,Tuyệt vời,,Tốt,0,2042051077,5,0*** 
+160,19215280,Tuyệt vời,,Tốt,0,2042078109,5,0559318221 Hoàng Hoa
+161,19214225,Tuyệt vời,giao hàng nhanh bất ngờ.,Tốt,0,2023050568,5,Hải Trần Minh
+162,19214056,Tuyệt vời,,Tốt,0,2037780539,5,võ thị thúy hằng
+163,19213910,Tuyệt vời,,Tốt,0,2038478283,5,Khang Nguyen
+164,19213638,Tuyệt vời,,Tốt,0,2040593852,5,Truong Hoang
+165,19213605,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2019527354,5,Nguyễn trường
+166,19213330,Hài lòng,giá hợp lý.,Tốt,0,2036053748,4,Đánh giá ẩn danh
+167,19213015,Tuyệt vời,giao hàng nhanh bất ngờ.,Tốt,0,2023612334,5,nhat minh pham
+168,19212737,Tuyệt vời,đẹp như mô tả. giá tốt.,Tốt,0,2030174231,5,Nguyễn Văn Đạt
+169,19212638,Tuyệt vời,,Tốt,0,2040450373,5,hứa Văn Chiến
+170,19211957,Tuyệt vời,,Tốt,0,2032503410,5,Cuong
+171,19211658,Tuyệt vời,đẹp như mô tả.,Tốt,0,2038566489,5,Nguyên Hiền
+172,19210009,Tuyệt vời,,Tốt,0,2042048707,5,0*** 
+173,19207186,Tuyệt vời,,Tốt,0,2021950746,5,anh phan thi kim
+174,19206345,Tuyệt vời,,Tốt,0,2038720648,5,Đào Trần
+175,19204803,Tuyệt vời,,Tốt,0,2018455885,5,Danh Hung Cuong
+176,19201612,Tuyệt vời,,Tốt,0,2037703384,5,Đặng Thanh
+177,19195406,Tuyệt vời,đẹp như mô tả.,Tốt,0,2029098988,5,siu hoen
+178,19193629,Tuyệt vời,,Tốt,0,2031850185,5,Nguyễn Kim
+179,19192195,Hài lòng,giá hợp lý.,Tốt,0,2036981293,4,nguyenhang
+180,19191495,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2036508076,5,Phạm Tâm
+181,19190265,Tuyệt vời,,Tốt,0,2041921009,5,Lệ Huyền
+182,19188074,Hài lòng,,Tốt,0,2039420239,4,thu ha
+183,19187959,Tuyệt vời,,Tốt,0,2021452552,5,ngoc giau
+184,19187713,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng.",Tốt,0,2041908521,5,Ngoc Dung
+185,19187690,Tuyệt vời,"chuyên nghiệp, thân thiện. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2026182331,5,tran thanh diễn
+186,19186900,Tuyệt vời,tuyệt vời. 10* cho shop,Tốt,0,2028019349,5,An Trần
+187,19186402,Hài lòng,,Tốt,0,2030169503,4,lienfran
+188,19185767,Tuyệt vời,,Tốt,0,2031095703,5,Nguyễn Liên
+189,19185087,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2036839291,5,pham van điêp
+190,19185070,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời.,Tốt,0,2041966111,5,Kim phung
+191,19184477,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2041673958,5,đen Nguyễn
+192,19183563,Tuyệt vời,,Tốt,0,2019454537,5,Bich Tran
+193,19181331,Tuyệt vời,,Tốt,0,2037669922,5,Dũng Hoàng
+194,19176452,Tuyệt vời,,Tốt,0,2041807198,5,Thái Hùng
+195,19174608,Tuyệt vời,,Tốt,0,2037874017,5,Trần thị huệ
+196,19173733,Hài lòng,,Tốt,0,2036039757,4,nguyễn thị mỹ tim
+197,19173256,Tuyệt vời,,Tốt,0,2035568238,5,Triệu Quốc Tính
+198,19173217,Tuyệt vời,giao hàng nhanh bất ngờ.,Tốt,0,2041465735,5,nguyên văn Thành
+199,19172728,Tuyệt vời,,Tốt,0,2021510846,5,Hoang yen thanh
+200,19172054,Tuyệt vời,,Tốt,0,2026330505,5,năng lê minh
+201,19171427,Tuyệt vời,,Tốt,0,2041862361,5,Lê Thị Thu
+202,19170207,Tuyệt vời,đẹp như mô tả. giá tốt.,Tốt,0,2022082515,5,hạnh Trần Thị Ngọc
+203,19169811,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả.",Tốt,0,2019394409,5,ĐEn KU
+204,19167853,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2034574765,5,Ngoc Nguyen
+205,19166507,Tuyệt vời,,Tốt,0,2037874017,5,Trần thị huệ
+206,19165167,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2039483637,5,Nguyễn Phú huong
+207,19164810,Tuyệt vời,,Tốt,0,2041511022,5,trần ngọc thư
+208,19164460,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2040167940,5,cẩm Vân
+209,19163708,Tuyệt vời,,Tốt,0,2031752728,5,nguyen thanh loi thanhloi
+210,19162708,Tuyệt vời,,Tốt,0,2021021066,5,phương huynh
+211,19161174,Tuyệt vời,giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2024772145,5,Trần Khánh Linh
+212,19160350,Tuyệt vời,,Tốt,0,2033569283,5,Trần Thanh
+213,19159605,Tuyệt vời,,Tốt,0,2041857673,5,Nguyễn Hậu
+214,19156914,Tuyệt vời,,Tốt,0,2034379890,5,tuyết đỗ thị minh
+215,19156755,Tuyệt vời,,Tốt,0,2032658297,5,tiến khắc
+216,19156218,Tuyệt vời,,Tốt,0,2023069457,5,Hung Nguyen
+217,19153138,Tuyệt vời,"chuyên nghiệp, thân thiện. đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2037783961,5,Nguyễn Thành Bắc
+218,19152787,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2035939644,5,Lê Ngọc
+219,19152786,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2035939644,5,Lê Ngọc
+220,19150424,Tuyệt vời,,Tốt,0,2039018464,5,nguyễn phú quý
+221,19149913,Tuyệt vời,,Tốt,0,2038686290,5,văn Khoa
+222,19148382,Tuyệt vời,đẹp như mô tả.,Tốt,0,2020093569,5,chuong nguyen
+223,19147953,Tuyệt vời,giá tốt.,Tốt,0,2036759728,5,Duong Tran
+224,19145719,Tuyệt vời,,Tốt,0,2030164231,5, Trần Thị Phương Thi
+225,19143693,Tuyệt vời,,Tốt,0,2025941942,5,thu le thi diem
+226,19143566,Hài lòng,giá hợp lý.,Tốt,0,2025433879,4,hieu tran thanh
+227,19142559,Tuyệt vời,,Tốt,0,2041530201,5,Huong Dinh
+228,19139279,Tuyệt vời,,Tốt,0,2027521758,5,Anh võ
+229,19138929,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2028560669,5,pham tan sy
+230,19138780,Tuyệt vời,,Tốt,0,2018537085,5,Trinh Thi Ngoc Van
+231,19138728,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2028241090,5,Nguyễn Thị tuyết anh
+232,19133963,Tuyệt vời,,Tốt,0,2024300442,5,Tran Mai
+233,19133390,Hài lòng,tam dc,Tốt,0,2028968207,4,Đánh giá ẩn danh
+234,19130404,Tuyệt vời,,Tốt,0,2016334297,5,NGUYỄN THỊ MhINH HIỂU
+235,19129918,Tuyệt vời,đẹp như mô tả.,Tốt,0,2036144743,5,Huỳnh Trúc Ly
+236,19129531,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng.,Tốt,0,2036751460,5,Luu Thao
+237,19126993,Tuyệt vời,,Tốt,0,2035793571,5,hải yến
+238,19126138,Tuyệt vời,ok chảo đẹp,Tốt,0,2041665642,5,lê Hoàng Nam
+239,19125812,Tuyệt vời,,Tốt,0,2036112687,5,Đoàn Duyên
+240,19125478,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt.,Tốt,0,2040223895,5,tran thanh tu
+241,19124530,Tuyệt vời,,Tốt,0,2027265071,5,Ho Dung
+242,19123523,Tuyệt vời,,Tốt,0,2036923875,5,Thuy Thach
+243,19123283,Không hài lòng,,Xấu,0,2034822942,1,võ ngọc minh
+244,19123160,Tuyệt vời,chao dụng ok làm ạ,Tốt,0,2029607652,5,đoàn nhiên
+245,19122889,Tuyệt vời,đẹp như mô tả.,Tốt,0,2038614917,5,Minh Lộc
+246,19122139,Hài lòng,,Tốt,0,2019991563,4,Nguyễn Thanh Tùng
+247,19121375,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. giao hàng nhanh bất ngờ.,Tốt,0,2039243008,5,Hung Nguyen
+248,19119493,Tuyệt vời,giá tốt.,Tốt,0,2020055216,5,Lâm Thị Phương Thảo
+249,19119491,Tuyệt vời,giá tốt.,Tốt,0,2028978279,5,Thi nguyễn
+250,19114775,Tạm hài lòng,,Bình thường,0,2040095537,3,nguyên huy bình
+251,19110919,Tuyệt vời,đẹp như mô tả. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2028546077,5,Võ Văn Điều
+252,19107396,Tuyệt vời,đẹp như mô tả. giá tốt.,Tốt,0,2020358668,5,Nguyenpham624@gmail.com
+253,19107198,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2041470580,5,Đánh giá ẩn danh
+254,19106166,Tuyệt vời,giá tốt.,Tốt,0,2022489314,5,thu
+255,19105317,Tuyệt vời,,Tốt,0,2021625342,5,Nguyen Thu
+256,19102738,Hài lòng,,Tốt,0,2027060470,4,uyên ngọc
+257,19100343,Hài lòng,chất lượng tốt. đúng mô tả.,Tốt,0,2041740015,4,A Luân
+258,19099530,Tuyệt vời,,Tốt,0,2017141942,5,oanh dinh thi my
+259,19098192,Không hài lòng,chất lượng cần tốt hơn. shop cần thân thiện hơn. ko xài được,Xấu,0,2033523224,1,Đánh giá ẩn danh
+260,19096111,Chưa hài lòng,chất lượng cần tốt hơn.,Xấu,0,2023584976,2,Huynh Manh
+261,19095705,Tuyệt vời,,Tốt,0,2024352519,5, lathitrinh
+262,19095690,Tuyệt vời,,Tốt,0,2025309554,5,yen minh
+263,19090650,Tuyệt vời,đẹp như mô tả.,Tốt,0,2041543342,5,Nguyễn Chí huy
+264,19088984,Tuyệt vời,,Tốt,0,2027904436,5,bui thi hung
+265,19088783,Tuyệt vời,đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2026250116,5,Như lương Thị Hoài
+266,19085994,Tuyệt vời,ok,Tốt,0,2036150144,5,An Van Nguyan
+267,19084595,Tuyệt vời,đẹp như mô tả.,Tốt,0,2037711880,5,vo thanh hiền
+268,19082527,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2040656014,5,Nguyễn Minh Tuấn
+269,19079263,Tuyệt vời,đẹp như mô tả.,Tốt,0,2038430394,5,mong nghi
+270,19076119,Tạm hài lòng,,Bình thường,0,2023836035,3,Thủy Nguyễn
+271,19075523,Tuyệt vời,đẹp như mô tả.,Tốt,0,2041672851,5,manhquan
+272,19072969,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2017448824,5, Dang thi lệ hang
+273,19069908,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2040303550,5,cao quốc hùng
+274,19068475,Tuyệt vời,,Tốt,0,2020870810,5,Minh Nguyet
+275,19062187,Tuyệt vời,,Tốt,0,2033007840,5,ainguyênnguyên
+276,19060966,Tuyệt vời,,Tốt,0,2040950839,5,transfer Kim ha
+277,19059489,Tuyệt vời,,Tốt,0,2040932416,5,Nguyễn thanh toàn
+278,19059211,Tuyệt vời,,Tốt,0,2036388150,5,Lê Kiều
+279,19059209,Tuyệt vời,đẹp như mô tả.,Tốt,0,2041640559,5,võthịhoàng yến
+280,19054700,Tuyệt vời,,Tốt,0,2040146213,5,Công Chau
+281,19053668,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2025419330,5,Chi Lê Thị Kim
+282,19053276,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng.,Tốt,0,2036189037,5,Tham Lai
+283,19053185,Tuyệt vời,,Tốt,0,2022115244,5,dinh mong kieu
+284,19053066,Tuyệt vời,,Tốt,0,2025329643,5,hà hồ ngọc
+285,19050095,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2029730560,5,siro
+286,19046401,Tuyệt vời,,Tốt,0,2037404697,5,Trang Nguyen
+287,19041504,Tuyệt vời,hàng giống mô tả,Tốt,0,2039435423,5,nguyen quyen
+288,19040336,Tuyệt vời,,Tốt,0,2022246830,5,hồng Hoàng thì
+289,19038926,Tuyệt vời,đẹp như mô tả.,Tốt,0,2018723053,5,tranhoang
+290,19036972,Hài lòng,,Tốt,0,2019669129,4,lợi
+291,19032290,Tuyệt vời,đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2038957940,5,Hải Bùi Thượng.
+292,19028946,Tuyệt vời,đẹp như mô tả.,Tốt,0,2025983163,5,Vũ Nguyễn
+293,19028105,Chưa hài lòng,giao hàng cần nhanh hơn. cần đúng với mô tả.,Xấu,0,2033265867,2,Dương nguyên Tuân
+294,19024924,Tuyệt vời,,Tốt,0,2040975508,5,Kiều Long
+295,19021066,Tuyệt vời,,Tốt,0,2025182460,5,trân thuy ngoc hieu
+296,19019221,Tuyệt vời,quá im,Tốt,0,2023406231,5,hai pham thanh
+297,19015048,Tuyệt vời,,Tốt,0,2017863800,5,Dang Huong
+298,19014196,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giao hàng nhanh bất ngờ.,Tốt,0,2026505404,5,Tran Nhan
+299,19013805,Tuyệt vời,,Tốt,0,2041595337,5,Nguyen thi cam tuyen
+300,19013748,Chưa hài lòng,,Xấu,0,2037417372,2,Ngô Ánh Nhiên
+301,19013738,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả.",Tốt,0,2018950821,5,Phạm Văn Tú
+302,19010205,Hài lòng,đúng mô tả.,Tốt,0,2023188964,4,duyên phạm lê thị mỹ
+303,19009547,Tuyệt vời,,Tốt,0,2023879443,5,thuy tran thi thanh
+304,19008282,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2017840327,5,Nguyễn Ánh Tuyết
+305,19007822,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2012930462,5,Phạm Ngô Anh Quân
+306,19007599,Tuyệt vời,,Tốt,0,2040866591,5,0*** 
+307,19007580,Tuyệt vời,,Tốt,0,2030649160,5,bachngocanh1976@gmail.com
+308,19006770,Hài lòng,giá hợp lý.,Tốt,0,2021239873,4,Long Phi
+309,19005308,Tuyệt vời,,Tốt,0,2036004291,5,Bích Liên
+310,19004805,Tuyệt vời,,Tốt,0,2023326070,5,Ngọc Mai
+311,18998984,Tuyệt vời,"chuyên nghiệp, thân thiện. giá tốt. đúng hàng",Tốt,0,2021026024,5,VŨ nguyễn hồ
+312,18997309,Tuyệt vời,,Tốt,0,2027580166,5,Tigerdang
+313,18991971,Tuyệt vời,,Tốt,0,2020489598,5,Diễm Tuyết
+314,18991543,Tuyệt vời,,Tốt,0,2038543471,5,Nguyễn Thanh Bình
+315,18991038,Tuyệt vời,,Tốt,0,2041568954,5,Lâm Thị Huệ
+316,18990636,Không hài lòng,,Xấu,0,2041548807,1,NGUYỄN VĂN HÙNG
+317,18986813,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2036618696,5,Phương Thu Hà
+318,18984526,Hài lòng,,Tốt,0,2028855826,4,phạm ngọc tú
+319,18984228,Tuyệt vời,,Tốt,0,2024692550,5,kien tran trung
+320,18983297,Tuyệt vời,,Tốt,0,2041483728,5,như
+321,18980623,Tuyệt vời,giá tốt.,Tốt,0,2023336268,5,Tran Lep
+322,18980066,Tuyệt vời,,Tốt,0,2035377930,5,Tran Thi My Tien
+323,18977743,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2026364054,5,Bùi Hồng Hải
+324,18977263,Hài lòng,,Tốt,0,2033600879,4,nguyen thi hoan
+325,18976950,Tuyệt vời,"chuyên nghiệp, thân thiện. giao hàng nhanh bất ngờ.",Tốt,0,2018070425,5,Sằm Đức Nhuận
+326,18973712,Hài lòng,,Tốt,0,2037097860,4,Trần Thị Thu Ba
+327,18969720,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giao hàng nhanh bất ngờ.",Tốt,0,2022114619,5,Nguyễn Nam
+328,18969227,Tuyệt vời,,Tốt,0,2035294210,5,phương anh Huỳnh
+329,18968685,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2028756363,5,an phạm thị
+330,18967978,Tuyệt vời,"chuyên nghiệp, thân thiện. ok",Tốt,0,2037796882,5,mômmom
+331,18967833,Tuyệt vời,,Tốt,0,2035547399,5,Dat Nguyen
+332,18967010,Tuyệt vời,,Tốt,0,2038632803,5,Ngoc Tran
+333,18966772,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2020700111,5,Quach Lanh
+334,18966223,Tuyệt vời,,Tốt,0,2037996979,5,Trịnh Loan
+335,18965191,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2020660284,5,nguyen trang
+336,18965111,Tuyệt vời,,Tốt,0,2028867802,5,Nguyễn Châu
+337,18965101,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng. giá tốt. giao hàng nhanh bất ngờ.,Tốt,0,2019137093,5,Nguyễn thị kim phượng
+338,18964600,Tuyệt vời,,Tốt,0,2021830039,5,Van Hung
+339,18964498,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giao hàng nhanh bất ngờ.",Tốt,0,2035997300,5,Hoa My
+340,18964290,Tuyệt vời,đẹp như mô tả.,Tốt,0,2034112804,5,Hiếu Huỳnh
+341,18964150,Tuyệt vời,giá tốt.,Tốt,0,2028039245,5,nhiều do văn
+342,18963802,Tuyệt vời,,Tốt,0,2019646029,5,loan Trần thị kiều
+343,18961501,Tuyệt vời,,Tốt,0,2023767727,5,Hải Danh
+344,18959665,Không hài lòng,không như mô tả,Xấu,0,2017246876,1,Nguyen Hoang Nam
+345,18958882,Tuyệt vời,chất lượng tuyệt vời.,Tốt,0,2040069186,5,Ngoc Khanh Bui Thi
+346,18957556,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2035651545,5,hoàng phi
+347,18957100,Tuyệt vời,chất lượng tuyệt vời. giá tốt.,Tốt,0,2039872969,5,Nguyễn Huyên
+348,18956255,Tuyệt vời,"đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. chuyên nghiệp, thân thiện.",Tốt,0,2013998528,5,Lê Văn Bảy
+349,18954753,Tuyệt vời,đẹp như mô tả. đóng gói kỹ lưỡng.,Tốt,0,577204,5,phạm quốc thái
+350,18954121,Tuyệt vời,đóng gói kỹ lưỡng. giao hàng nhanh bất ngờ. ok.,Tốt,0,2039627290,5,Nguyen Hoa
+351,18954069,Hài lòng,,Tốt,0,2023042155,4,Huỳnh Hiền
+352,18953844,Tuyệt vời,,Tốt,0,2038490283,5,Trần Thanh Quân
+353,18953303,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. giao hàng nhanh bất ngờ.",Tốt,0,2039570304,5,lênam
+354,18948965,Tuyệt vời,"chảo mỏng nhẹ, chống dính tốt",Tốt,0,2041358486,5,Tuấn Kiệt
+355,18947673,Tuyệt vời,,Tốt,0,2022036430,5,phước hồ hữu
+356,18947033,Tuyệt vời,,Tốt,0,2017001023,5,Dương Quốc Trương
+357,18945255,Tuyệt vời,đẹp như mô tả. giao hàng nhanh bất ngờ.,Tốt,0,2040069186,5,Ngoc Khanh Bui Thi
+358,18945072,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2040847548,5,Hoàng Lâm
+359,18944077,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt.",Tốt,0,2016145812,5,Đánh giá ẩn danh
+360,18943433,Hài lòng,chuyên nghiệp. đúng mô tả. giao hàng nhanh.,Tốt,0,2032799066,4,Hoàng Thị Thùy Trang
+361,18943278,Tuyệt vời,,Tốt,0,2041473233,5,vũ thanh kỳ
+362,18941461,Tuyệt vời,,Tốt,0,2020275675,5,Tanh Truong van
+363,18937112,Tuyệt vời,hàng chuẩn đúng mẫu chưa sử dụng nhung nhìn thấy ok nhân viên giao hàng ok,Tốt,1,2019135619,5,Tầm tú anh
+364,18935581,Tạm hài lòng,hộp bị khui rách như kiểu là bị đổi hàng,Bình thường,0,2041423528,3,Hồng Trịnh Minh
+365,18934572,Hài lòng,,Tốt,0,2033384183,4,tramnguyen
+366,18931343,Tuyệt vời,,Tốt,0,2031908220,5,Huỳnh Thị Thu Vân
+367,18929471,Tuyệt vời,,Tốt,0,2034376302,5,Phuc Nguyen
+368,18928420,Tuyệt vời,,Tốt,0,2040151735,5,Huỳnh Nga
+369,18928348,Tuyệt vời,,Tốt,0,2021168054,5,du thanh tu
+370,18926043,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2035651545,5,hoàng phi
+371,18925141,Tuyệt vời,"chuyên nghiệp, thân thiện.",Tốt,0,2040751343,5,lê tuyết
+372,18920825,Tuyệt vời,giao hàng nhanh bất ngờ.,Tốt,0,2025455117,5,phương tô tuyết
+373,18920206,Hài lòng,,Tốt,0,2027991291,4,hồng Võ
+374,18917046,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt.",Tốt,0,2022850333,5,Tân Uyên
+375,18916092,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. chất lượng tuyệt vời. giá tốt.",Tốt,0,2038707981,5,Trần Lộc
+376,18910222,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2039572202,5,Lê văn sĩ
+377,18905030,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2021809277,5,Nguyen Bich
+378,18901512,Tuyệt vời,"chuyên nghiệp, thân thiện. đẹp như mô tả. đóng gói kỹ lưỡng. chất lượng tuyệt vời. giá tốt. giao hàng nhanh bất ngờ.",Tốt,0,2037566150,5,Lê Ngọc
