@@ -1,4 +1,5 @@
 # SenDoCommentsCrawler
+**Lưu ý:** sử dụng python 3.11.9
 1. **cd tới nơi lưu project**
 2. **Chạy code sau để tải các thư viện cần thiết:**
 ~~~
