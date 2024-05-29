@@ -18,7 +18,7 @@ def get_product_id(sendo_url):
     # Split the path by '-'
     path_parts = parsed_url.path.split('-')
     # Get the last part of the path, remove '.html', and replace 'p' with ''
-    product_id = path_parts[-1].replace('.html', '').replace('p', '')
+    product_id = path_parts[-1].replace('.html', '')
     return product_id
 
 #Hàm tạo ra cấu trúc để lưu dữ liệu sau khi crawl data
