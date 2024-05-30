@@ -106,7 +106,7 @@ idx2label = {
         0: "No Spam",
         1: "Spam"
     }
-model_predict_spam = AutoModelForSequenceClassification.from_pretrained('./spam_model_selection/model/', num_labels = 2)
+model_predict_spam = AutoModelForSequenceClassification.from_pretrained('./spam_model_selection/model', num_labels = 2)
 tokenizer_predict_spam = AutoTokenizer.from_pretrained("uitnlp/visobert",use_fast=False)
 # Di chuyển mô hình đến thiết bị (GPU nếu có)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

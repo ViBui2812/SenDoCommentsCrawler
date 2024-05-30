@@ -172,8 +172,8 @@ def process_comments(text):
 
 
 #Khai báo thư viện stopword và stopword_dash
-stopword = open('vietnamese-stopwords.txt',encoding='utf-8').read()
-stopword_dash = open('vietnamese-stopwords-dash.txt',encoding='utf-8').read()
+stopword = open('./vietnamese-stopwords.txt',encoding='utf-8').read()
+stopword_dash = open('./vietnamese-stopwords-dash.txt',encoding='utf-8').read()
 # Tạo hàm loại bỏ stopwords
 def remove_stopwords(line):
     words = []
