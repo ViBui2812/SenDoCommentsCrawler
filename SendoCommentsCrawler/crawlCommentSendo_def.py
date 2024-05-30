@@ -13,11 +13,11 @@ import gensim
 
 
 def get_product_id(sendo_url):
-    # Extract the product ID from the URL
+    # Lấy ra product_id từ URL sản phẩm bằng urlparse
     parsed_url = urlparse(sendo_url)
-    # Split the path by '-'
+    # Lấy phần "path" của URL, tách bằng dấu "-"
     path_parts = parsed_url.path.split('-')
-    # Get the last part of the path, remove '.html', and replace 'p' with ''
+    # Lấy phần cuối cùng và bỏ đi đuôi .html
     product_id = path_parts[-1].replace('.html', '')
     return product_id
 
@@ -36,18 +36,18 @@ def comment_parser(json):
 
 #Hàm lấy comment 
 def get_comments(product_id):
-    """Fetches and parses comments for a given Tiki.vn product ID, including all pages, dropping duplicates."""
-
+    #Khai báo Header tương ứng như API cung cấp
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Accept': '*/*',
         'Accept-Language': 'vi,vi-VN;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5',
         'Connection': 'keep-alive',
     }
-
+    
+    #Khai báo Params tương ứng như API cung cấp
     params = {
         'page': 1,
-        'limit': 10,  # Adjust limit as needed
+        'limit': 10,
         'sort': 'review_score',
         'v': '2',
         'star': 'all'
@@ -84,7 +84,6 @@ def standardize_comment(comment):
                     .replace("-", " ")\
                     .replace(". .", ' ')\
                     .lower()
-    comment = ' '.join(comment.split())  # Loại bỏ các dấu cách thừa
     return comment
 
 #Hàm xóa dấu cách bị thừa trong comment
@@ -123,11 +122,11 @@ def tokenize_comment(comment):
     # Tách từ trong mỗi câu và lưu kết quả
     tokenized_sentences = []
     for sentence in sentences:
-        words = word_tokenize(sentence)
-        # Xóa dấu câu khỏi mỗi từ
+        words = word_tokenize(sentence)    
+        #Xóa dấu câu khỏi mỗi từ
         for i, word in enumerate(words):
             words[i] = re.sub(r'[^\w\s]', '', word)
-
+            
         tokenized_sentences.append(words)
     return tokenized_sentences
 
@@ -147,7 +146,7 @@ def get_sentiment_scores_by_phobert(text, batch_size=32):
         batch_texts = text[i*batch_size:(i+1)*batch_size]
         inputs = tokenizer(batch_texts, padding=True, truncation=True, return_tensors="pt")
         
-        # Get predictions and find dominant sentiment
+        # Dự báo và lấy ra nhãn có trị số cao nhất
         outputs = model(**inputs)
         predictions = torch.nn.functional.softmax(outputs.logits, dim=-1)
         
@@ -172,7 +171,7 @@ def process_comments(text):
 
 
 
-
+#Khai báo thư viện stopword và stopword_dash
 stopword = open('vietnamese-stopwords.txt',encoding='utf-8').read()
 stopword_dash = open('vietnamese-stopwords-dash.txt',encoding='utf-8').read()
 # Tạo hàm loại bỏ stopwords
